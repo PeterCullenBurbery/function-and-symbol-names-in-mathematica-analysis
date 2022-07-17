@@ -29748,9 +29748,9 @@ Cell[BoxData[
 }, Open  ]]
 }, Open  ]]
 },
-WindowSize->{1141.2, 580.8},
+WindowSize->{1141.2, 574.8},
 WindowMargins->{{0, Automatic}, {Automatic, 0}},
-FrontEndVersion->"13.1 for Microsoft Windows (64-bit) (June 16, 2022)",
+FrontEndVersion->"13.2 for Microsoft Windows (64-bit) (July 16, 2022)",
 StyleDefinitions->"Default.nb",
 ExpressionUUID->"941ce9cb-4ccd-4643-856c-5ece09aebfc5"
 ]
